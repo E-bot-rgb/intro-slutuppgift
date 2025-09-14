@@ -1,4 +1,4 @@
-name: Kör vid push
+name: hello-world
 
 on:
   push:
