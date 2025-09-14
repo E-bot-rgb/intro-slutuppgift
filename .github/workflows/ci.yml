@@ -1,0 +1,14 @@
+name: Kör vid push
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Kör ett kommando
+        run: echo "Kod har pushats till main!"

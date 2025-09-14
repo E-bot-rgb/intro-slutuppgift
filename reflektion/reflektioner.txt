@@ -1,0 +1,9 @@
+hur hela processen såg ut. Nu har jag fått en mycket bättre förståelse för hur man planerar, bygger och jobbar tillsammans i ett projekt. Jag har också lärt mig använda verktyg som Git och GitHub, och fått en helhetsbild av hur ett utvecklingsteam arbetar.
+
+Begreppet DevOps har också blivit tydligare. För mig handlar det om att utveckling och drift hänger ihop – att man samarbetar och automatiserar så mycket som möjligt för att kunna leverera kod snabbt och säkert. Jag skulle förklara det som ett smartare sätt att jobba tillsammans, där man kombinerar teknik och ansvar.
+
+Molnet känns spännande eftersom det gör det enkelt att köra och skala upp system utan att tänka på fysisk infrastruktur. Det är mycket att lära sig, men också något som blir tydligare ju mer man jobbar med det.
+
+Att jobba som systemutvecklare i ett team innebär mycket mer än att bara skriva kod. Det handlar om kommunikation, ansvar och att hjälpas åt för att få projektet att gå framåt. Det har varit nyttigt att få öva på pull requests, versionshantering och samarbete i praktiken.
+
+Det som har varit mest intressant är nog att lära sig de olika verktygen.
