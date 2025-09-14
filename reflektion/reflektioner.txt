@@ -7,3 +7,4 @@ Molnet känns spännande eftersom det gör det enkelt att köra och skala upp system
 Att jobba som systemutvecklare i ett team innebär mycket mer än att bara skriva kod. Det handlar om kommunikation, ansvar och att hjälpas åt för att få projektet att gå framåt. Det har varit nyttigt att få öva på pull requests, versionshantering och samarbete i praktiken.
 
 Det som har varit mest intressant är nog att lära sig de olika verktygen.
+
