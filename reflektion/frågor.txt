@@ -22,4 +22,4 @@ CIA-triaden står för Confidentiality (sekretess), Integrity (integritet) och Ava
 CI är en metod där kodändringar integreras ofta i ett gemensamt projekt, och automatiska tester körs varje gång för att snabbt upptäcka fel och hålla koden stabil.
 
 
-extra text
+extra text1
